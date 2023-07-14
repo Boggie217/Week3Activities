@@ -1,0 +1,15 @@
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    margin-top: 15%;
+}
+
+
+.buttons button{
+    color: white;
+    background-color: darkslategray;
+}
+
+img{background-color: darkslategray;}
